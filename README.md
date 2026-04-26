@@ -1,61 +1,89 @@
-# 👋 Hello, I'm Mohamed Gassoumi
+<div align="center">
 
-Welcome to my GitHub space — where engineering precision meets creative execution.
+<!-- 🔥 BANNER (à remplacer par ton image personnalisée) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamed%20Gassoumi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-I am a **Computer Science / Software Engineering student** driven by a strong ambition to design, build, and scale digital solutions that solve real-world problems. My approach combines technical rigor with a product-oriented mindset. 🚀
+<h2>🚀 Software Engineering Student | Backend & Scalable Systems</h2>
 
----
+<!-- BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Advanced-orange?style=for-the-badge" />
+</p>
 
-## 💻 Core Skills & Technologies
-
-![myskills](https://go-skill-icons.vercel.app/api/icons?i=python,c,java,js,html,css,tailwindcss,materialui,bootstrap,react,redux,vite,chartjs,php,mysql,firebase,mongodb,fastapi,expressjs,oracle,qt,postman,git,github,figma)
-
----
-
-## 🧠 Engineering Focus
-
-Currently, I am sharpening my expertise in:
-
-- **Backend Architecture** with Python (FastAPI, Django)
-- **API Design & Performance Optimization**
-- **Full-Stack Development** (React ecosystem + modern tooling)
-- **Database Engineering** (SQL & NoSQL systems)
-- **System Design & Scalable Applications**
-
-In parallel, I am actively developing high-value projects with a strong emphasis on usability, performance, and clean architecture.
+</div>
 
 ---
 
-## 🚀 Strategic Objectives — 2026
+## 🧠 About Me
 
-- Build **production-ready applications** with measurable impact  
-- Master **advanced backend patterns** (microservices, async systems, clean architecture)  
-- Develop **scalable SaaS platforms and web tools**  
-- Contribute meaningfully to **open-source ecosystems**  
-- Strengthen my **problem-solving and system design capabilities**  
-
----
-
-## 📈 Development Philosophy
-
-I believe in:
-- Writing **clean, maintainable, and efficient code**
-- Building with a **user-first mindset**
-- Continuously evolving through **learning and experimentation**
-- Turning ideas into **real, deployable products**
+- 🎓 Computer Science / Software Engineering student  
+- ⚙️ Focused on **scalable backend systems & API architecture**  
+- 🚀 Building real-world digital products  
+- 💡 Strong interest in **performance, clean architecture & SaaS**
 
 ---
 
-## 🤝 Let's Connect
+## 🧩 Tech Stack
 
-I am open to collaboration, innovation, and ambitious projects.
+<div align="center">
 
-[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/)
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,redux,vite,tailwind,bootstrap,materialui" /><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,mongodb,mysql,firebase,oracle" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,qt" />
+
+</div>
 
 ---
 
-## 📊 GitHub Insights
+## 🚀 Current Focus (2026)
 
-![MohamedGassoumi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
 
-![MohamedGassoumi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+- 🔥 Advanced Backend (FastAPI / Django)
+- ⚡ API Optimization & Async Systems
+- 🏗️ System Design & Scalable Architecture
+- 🌐 SaaS & Web Platforms
+
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 2026 Objectives
+
+✔ Build production-grade applications  
+✔ Master microservices & distributed systems  
+✔ Launch scalable SaaS products  
+✔ Contribute to high-impact open source  
+✔ Develop strong system design expertise  
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</div>
+
+---
+
+<!-- 🔥 FOOTER DESIGN -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
