@@ -1,31 +1,27 @@
 <div align="center">
 
-<!-- 🔥 BANNER (à remplacer par ton image personnalisée) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamed%20Gassoumi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Mohamed%20Gassoumi&fontSize=40&fontColor=0f172a&animation=fadeIn" />
 
-<h2>🚀 Software Engineering Student | Backend & Scalable Systems</h2>
+<h3>Software Engineering Student • Backend & Scalable Systems</h3>
 
-<!-- BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-Full%20Stack-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Advanced-orange?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/medgass/">
+    <img src="https://img.shields.io/badge/LinkedIn-Medgass-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 Profile
 
-- 🎓 Computer Science / Software Engineering student  
-- ⚙️ Focused on **scalable backend systems & API architecture**  
-- 🚀 Building real-world digital products  
-- 💡 Strong interest in **performance, clean architecture & SaaS**
+I am a Software Engineering student focused on designing **robust backend systems** and building **scalable digital solutions**.  
+My approach combines technical depth with a strong emphasis on **performance, architecture, and real-world impact**.
 
 ---
 
-## 🧩 Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -37,22 +33,16 @@
 
 ---
 
-## 🚀 Current Focus (2026)
+## 🚀 Focus 2026
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Medgass&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-- 🔥 Advanced Backend (FastAPI / Django)
-- ⚡ API Optimization & Async Systems
-- 🏗️ System Design & Scalable Architecture
-- 🌐 SaaS & Web Platforms
+- Advanced Backend Development (FastAPI, Django)  
+- API Design & Performance Optimization  
+- Scalable Architecture & System Design  
+- SaaS Platforms & Web Applications  
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -63,27 +53,17 @@
 
 ---
 
-## 🎯 2026 Objectives
+## 🎯 Objectives
 
-✔ Build production-grade applications  
-✔ Master microservices & distributed systems  
-✔ Launch scalable SaaS products  
-✔ Contribute to high-impact open source  
-✔ Develop strong system design expertise  
+- Build production-ready applications  
+- Master scalable backend architectures  
+- Launch high-impact digital products  
+- Contribute to open-source projects  
 
 ---
-
-## 🌐 Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=footer"/>
 
 </div>
-
----
-
-<!-- 🔥 FOOTER DESIGN -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
